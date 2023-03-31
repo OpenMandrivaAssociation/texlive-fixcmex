@@ -1,6 +1,6 @@
 Name:		texlive-fixcmex
 Version:	51825
-Release:	1
+Release:	2
 Summary:	Fully scalable version of Computer Modern Math Extension font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fixcmex
