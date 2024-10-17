@@ -3,7 +3,7 @@ Version:	51825
 Release:	2
 Summary:	Fully scalable version of Computer Modern Math Extension font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fixcmex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fixcmex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fixcmex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fixcmex.doc.r%{version}.tar.xz
